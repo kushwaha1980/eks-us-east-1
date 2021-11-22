@@ -1,3 +1,4 @@
+cd /home/ec2-user/eks-us-east-1/resource-api/infra/cloudformation/
 chmod +x create-iam-policy.sh
 ./create-iam-policy.sh
 
